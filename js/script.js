@@ -35,7 +35,7 @@
             `)
         }
 
-        
+        dayCount.innerHTML = `Day Count: ${calInput}`
         // Math.floor(Math.sqrt(total * 2));
        
     })
@@ -69,7 +69,7 @@
             `)
         }
 
-       
+        dayCount.innerHTML = `Day Count: ${dayTotal}`
     })
     
 
