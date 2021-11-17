@@ -1,0 +1,10 @@
+.dollarSign {
+    position: relative;
+    top: 0.42em;
+    left: 1em;
+    z-index: 1 !important;
+}
+
+#inputCalTriangleNum {
+    padding-left: 1rem;
+}
